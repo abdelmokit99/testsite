@@ -24,7 +24,7 @@
     "@angular/router": "~12.1.0",
     "@material/fab": "^12.0.0",
     "ag-grid-angular": "^25.3.0",
-    "ag-grid-community": "^25.3.0",
+    "ag-grid-community": "^32.0.1",
     "angular-in-memory-web-api": "^0.11.0",
     "bootstrap": "^3.3.7",
     "rxjs": "~6.6.0",
